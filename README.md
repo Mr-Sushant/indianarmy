@@ -1,5 +1,7 @@
 # SAINIK
 
+![LOGO](https://user-images.githubusercontent.com/62637430/102684818-df149280-4201-11eb-95ea-d05ebf29bb76.jpg)
+
 Right now if you randomly ask a person about the details of our 'Jawaans' he/she won't be able to tell you. It's because we as a civilian don't bother much to know the structure and working of our defense forces. SAINIK is a effort made by us to bridge this gap of knowledge.
 
 SAINIK is an Unity3D based application which shows different educative information about our defense forces. It educates us about the different gallantry awards, locations of different commands and their logo, the organogram of the hierarchy in the Indian Army, etc.
